@@ -282,8 +282,6 @@ image:
 ---
 ```
 
-> You can observe LQIP in the preview image of post [_gigacounts-guides-example-1_](/posts/gigacounts-guides-example-1/).
-
 
 For normal images:
 
