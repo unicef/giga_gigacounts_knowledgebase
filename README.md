@@ -148,6 +148,6 @@ Unless you specified the output path, the generated site files will be placed in
 
 
 [jekyll-installation]: https://jekyllrb.com/docs/installation/
-[demo]: https://dappsar.github.io/jekyll-g/
+[demo]: https://unicef.github.io/giga_gigacounts_knowledgebase/
 [theme-info]: https://chirpy.cotes.page/posts/getting-started/
 [chirpy-static-assets]: https://github.com/cotes2020/chirpy-static-assets#readme
