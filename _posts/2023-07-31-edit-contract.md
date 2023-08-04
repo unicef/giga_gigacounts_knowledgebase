@@ -1,9 +1,9 @@
 ---
-title: Gigacounts guides example 1
+title: Edit manual contract
 author: GIGA
 date: 2023-07-08 11:33:00 +0800
-categories: [Guides, Tutorial]
-tags: [Contracts]
+categories: [Guides, Contracts]
+tags: [Contracts, Edit]
 pin: true
 math: true
 mermaid: true
